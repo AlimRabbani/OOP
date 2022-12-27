@@ -1,12 +1,12 @@
-#nama : ALIM RABBANI 
-#NIM : D0221080 
+#nama : Mamnun Aulia S 
+#NIM : D0221342 
 #KELAS : INFORMATIKA F 
 
 #menghitung luas persegi panjang 
 print("MENGHITuNG LUAS PERSEGI")
-panjang = int(input(' panjang segitiga = ')) 
-lebar = int(input(' lebar sgitiga = ')) 
-tinggi = int(input('tinggi segitiga = '))
+panjang = int(input(' panjang PERSEGI= ')) 
+lebar = int(input(' lebar PERSEGI = ')) 
+tinggi = int(input('tinggi PERSEGI = '))
 
 def luas_segitiga(): 
     luas = panjang * lebar * tinggi/2 
